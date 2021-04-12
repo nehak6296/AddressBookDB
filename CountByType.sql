@@ -1,0 +1,1 @@
+select count(First_name) as count,AddressBookType from AddressBook group by AddressBookType; 
